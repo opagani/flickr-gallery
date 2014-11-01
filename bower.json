@@ -1,0 +1,13 @@
+{
+  "name": "flickr-gallery",
+  "version": "0.1.0",
+  "authors": [
+    "opagani <paganio@yahoo.com>"
+  ],
+  "description": "Flickr Gallery",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
